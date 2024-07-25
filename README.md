@@ -41,7 +41,7 @@ This project showcases basic Python programming, data manipulation with pandas, 
 
 
 
-## PROJECT - ENHANCED SENTIMENT ANALYSIS 
+## PROJECT 2 - ENHANCED SENTIMENT ANALYSIS 
 
 
 This project is an enhanced version of the sentiment analysis tool, incorporating more advanced techniques and visualizations. It demonstrates intermediate to advanced skills in Python, natural language processing (NLP), machine learning, and data visualization.
@@ -96,3 +96,40 @@ The script includes a basic unit test for the sentiment classification function.
 python -m unittest sentiment_analysis_enhanced.py
 
 This project showcases more advanced Python programming, use of modern NLP libraries, data preprocessing techniques, advanced data visualization, and basic testing practices.
+
+## PROJECT 3 - SOCIAL MEDIA COMPLIANCE ANALYZER
+
+This project demonstrates a tool for analyzing social media posts for policy compliance and sentiment. It uses natural language processing (NLP) and machine learning techniques to classify posts by topic and sentiment, providing insights that could be valuable for companies monitoring their social media presence.
+
+#Features
+
+- Generation of fake social media posts for demonstration purposes
+- Sentiment analysis of posts (Positive, Negative, Neutral)
+- Topic classification of posts (e.g., customer service, product feedback)
+- Visualization of sentiment and topic distributions
+- Word cloud generation from post content
+- Display of sample posts with their classifications
+- Evaluation of topic classification performance
+
+#Technologies Used
+
+- Python 3.x
+- NLTK for sentiment analysis
+- Scikit-learn for machine learning (topic classification)
+- Pandas for data manipulation
+- Matplotlib and WordCloud for data visualization
+- Streamlit for the web application interface
+
+#Installation
+
+1. Clone this repository:
+   git clone https://github.com/TraceVal94/AI-ML-Projects/social-media-policy-analyzer.git
+cd social-media-policy-analyzer
+
+2. Install the required packages:
+   pip install pandas nltk scikit-learn matplotlib wordcloud streamlit
+
+3. Download the necessary NLTK data:
+```python
+import nltk
+nltk.download('vader_lexicon')
