@@ -1,5 +1,3 @@
-                                                        ### WELCOME TO MY AI/ML PORTFOLIO ###
-
 ## PROJECT 1 - SENTIMENT ANALYSIS TOOL ##
 
 This project is a basic sentiment analysis tool that analyzes fake Twitter data. It demonstrates fundamental skills in Python, natural language processing (NLP), and data visualization.
