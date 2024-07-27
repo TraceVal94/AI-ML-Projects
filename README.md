@@ -95,7 +95,7 @@ python -m unittest sentiment_analysis_enhanced.py
 
 This project showcases more advanced Python programming, use of modern NLP libraries, data preprocessing techniques, advanced data visualization, and basic testing practices.
 
-## PROJECT 3 - SOCIAL MEDIA COMPLIANCE ANALYZER
+## PROJECT 3 - SOCIALGUARD - SOCIAL MEDIA COMPLIANCE ANALYZER
 
 This project demonstrates a tool for analyzing social media posts for policy compliance and sentiment. It uses natural language processing (NLP) and machine learning techniques to classify posts by topic and sentiment, providing insights that could be valuable for companies monitoring their social media presence.
 
