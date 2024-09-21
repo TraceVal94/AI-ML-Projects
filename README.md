@@ -2,14 +2,14 @@
 
 This project is a basic sentiment analysis tool that analyzes fake Twitter data. It demonstrates fundamental skills in Python, natural language processing (NLP), and data visualization.
 
-#Features
+# Features
 
 - Generates fake Twitter data
 - Performs basic sentiment analysis using TextBlob
 - Saves results to a CSV file
 - Visualizes results using matplotlib
 
-#requirements
+# requirements
 
 - Python 3.x
 - pandas
@@ -17,7 +17,7 @@ This project is a basic sentiment analysis tool that analyzes fake Twitter data.
 - textblob
 - matplotlib
 
-#Usage
+# Usage
 
 1. Ensure you have all required libraries installed:
    pip install pandas numpy textblob matplotlib
@@ -29,7 +29,7 @@ This project is a basic sentiment analysis tool that analyzes fake Twitter data.
 - A CSV file with sentiment analysis results
 - A PNG image with a visualization of the results
 
-#Output
+# Output
 
 - `twitter_sentiment.csv`: Contains the generated tweets and their sentiment scores
 - `sentiment_analysis.png`: A box plot showing sentiment distribution across topics
@@ -44,7 +44,7 @@ This project showcases basic Python programming, data manipulation with pandas, 
 
 This project is an enhanced version of the sentiment analysis tool, incorporating more advanced techniques and visualizations. It demonstrates intermediate to advanced skills in Python, natural language processing (NLP), machine learning, and data visualization.
 
-#Features
+# Features
 
 - Generates fake Twitter data
 - Performs sentiment analysis using Hugging Face Transformers
@@ -53,7 +53,7 @@ This project is an enhanced version of the sentiment analysis tool, incorporatin
 - Creates advanced visualizations including word clouds
 - Includes a simple unit test
 
-#Requirements
+# Requirements
 
 - Python 3.x
 - pandas
@@ -64,7 +64,7 @@ This project is an enhanced version of the sentiment analysis tool, incorporatin
 - torch
 - wordcloud
 
-#Installation
+# Installation
 
 1. Install required libraries:
    pip install pandas numpy matplotlib seaborn transformers torch wordcloud
@@ -72,7 +72,7 @@ This project is an enhanced version of the sentiment analysis tool, incorporatin
 2. Download necessary NLTK data:
   python -m textblob.download_corpora
 
-#Usage
+# Usage
 
 1. Run the script:
 python sentiment_analysis_enhanced.py
@@ -81,14 +81,14 @@ python sentiment_analysis_enhanced.py
 - A CSV file with detailed sentiment analysis results
 - Multiple PNG images with various visualizations
 
-#Output
+# Output
 
 - `twitter_sentiment.csv`: Contains generated tweets and their sentiment scores
 - `sentiment_boxplot.png`: Box plot of sentiment scores by topic
 - `sentiment_distribution.png`: Bar plot of sentiment category distribution
 - `wordcloud.png`: Word cloud visualization of all tweets
 
-#Testing
+# Testing
 
 The script includes a basic unit test for the sentiment classification function. To run the test:
 python -m unittest sentiment_analysis_enhanced.py
@@ -99,7 +99,7 @@ This project showcases more advanced Python programming, use of modern NLP libra
 
 This project demonstrates a tool for analyzing social media posts for policy compliance and sentiment. It uses natural language processing (NLP) and machine learning techniques to classify posts by topic and sentiment, providing insights that could be valuable for companies monitoring their social media presence.
 
-#Features
+# Features
 
 - Generation of fake social media posts for demonstration purposes
 - Sentiment analysis of posts (Positive, Negative, Neutral)
@@ -109,7 +109,7 @@ This project demonstrates a tool for analyzing social media posts for policy com
 - Display of sample posts with their classifications
 - Evaluation of topic classification performance
 
-#Technologies Used
+# Technologies Used
 
 - Python 3.x
 - NLTK for sentiment analysis
@@ -118,7 +118,7 @@ This project demonstrates a tool for analyzing social media posts for policy com
 - Matplotlib and WordCloud for data visualization
 - Streamlit for the web application interface
 
-#Installation
+# Installation
 
 1. Clone this repository:
    git clone https://github.com/TraceVal94/AI-ML-Projects/social-media-policy-analyzer.git
