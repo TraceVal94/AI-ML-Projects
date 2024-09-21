@@ -128,7 +128,7 @@ cd social-media-policy-analyzer
    pip install pandas nltk scikit-learn matplotlib wordcloud streamlit
 
 3. Download the necessary NLTK data:
-```python
+python
 import nltk
 nltk.download('vader_lexicon')
 
