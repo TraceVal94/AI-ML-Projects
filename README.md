@@ -136,7 +136,7 @@ nltk.download('vader_lexicon')
 
 AssetSentry is a predictive maintenance tool that uses time-series analysis and anomaly detection to predict equipment failures based on sensor data. This project demonstrates skills in data processing, machine learning, and web application development.
 
-## Features
+# Features
 
 * Time-series forecasting using ARIMA models
 * Anomaly detection using Isolation Forest algorithm
@@ -145,7 +145,7 @@ AssetSentry is a predictive maintenance tool that uses time-series analysis and 
 * Web-based dashboard for easy monitoring
 * Automated model parameter optimization
 
-## Technologies Used
+# Technologies Used
 
 * Python 3.x
 * Flask for web application framework
@@ -155,7 +155,7 @@ AssetSentry is a predictive maintenance tool that uses time-series analysis and 
 * Matplotlib and Chart.js for data visualization
 * pmdarima for automatic ARIMA parameter selection
 
-## Installation
+# Installation
 
 1. Clone this repository:
 git clone https://github.com/TraceVal94/AI-ML-Projects.git
@@ -164,7 +164,7 @@ cd AI-ML-Projects/AssetSentry
 2. Install the required packages:
 pip install -r requirements.txt
 
-## Usage
+# Usage
 
 1. Run the Flask application:
 python app.py
@@ -173,22 +173,22 @@ python app.py
 
 3. The dashboard will display real-time predictions and anomaly scores for the equipment.
 
-## Data
+# Data
 
 The project uses the NASA Turbofan Engine Degradation Simulation Dataset, which is included in the `data` folder.
 
-## Output
+# Output
 
 * Real-time visualization of time series predictions
 * Anomaly score tracking over time
 * API endpoint for retrieving latest predictions and anomaly scores
 
-## Model Details
+# Model Details
 
 * Time Series Forecasting: ARIMA model with automated parameter selection
 * Anomaly Detection: Isolation Forest algorithm
 
-## Future Enhancements
+# Future Enhancements
 
 * Integration with live data streams
 * Implementation of more advanced deep learning models (e.g., LSTM)
