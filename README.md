@@ -131,3 +131,68 @@ cd social-media-policy-analyzer
 ```python
 import nltk
 nltk.download('vader_lexicon')
+
+## PROJECT 4 - ASSETSENTRY: PREDICTIVE MAINTENANCE TOOL
+
+AssetSentry is a predictive maintenance tool that uses time-series analysis and anomaly detection to predict equipment failures based on sensor data. This project demonstrates skills in data processing, machine learning, and web application development.
+
+## Features
+
+* Time-series forecasting using ARIMA models
+* Anomaly detection using Isolation Forest algorithm
+* Data preprocessing and feature engineering
+* Real-time visualization of predictions and anomaly scores
+* Web-based dashboard for easy monitoring
+* Automated model parameter optimization
+
+## Technologies Used
+
+* Python 3.x
+* Flask for web application framework
+* Pandas and NumPy for data manipulation
+* Scikit-learn for machine learning (anomaly detection)
+* Statsmodels for time series analysis (ARIMA)
+* Matplotlib and Chart.js for data visualization
+* pmdarima for automatic ARIMA parameter selection
+
+## Installation
+
+1. Clone this repository:
+git clone https://github.com/TraceVal94/AI-ML-Projects.git
+cd AI-ML-Projects/AssetSentry
+
+2. Install the required packages:
+pip install -r requirements.txt
+
+## Usage
+
+1. Run the Flask application:
+python app.py
+
+2. Open a web browser and navigate to `http://127.0.0.1:5000/`
+
+3. The dashboard will display real-time predictions and anomaly scores for the equipment.
+
+## Data
+
+The project uses the NASA Turbofan Engine Degradation Simulation Dataset, which is included in the `data` folder.
+
+## Output
+
+* Real-time visualization of time series predictions
+* Anomaly score tracking over time
+* API endpoint for retrieving latest predictions and anomaly scores
+
+## Model Details
+
+* Time Series Forecasting: ARIMA model with automated parameter selection
+* Anomaly Detection: Isolation Forest algorithm
+
+## Future Enhancements
+
+* Integration with live data streams
+* Implementation of more advanced deep learning models (e.g., LSTM)
+* Alerting system for detected anomalies
+* Extended dashboard features for historical data analysis
+
+This project showcases advanced skills in time series analysis, anomaly detection, data preprocessing, web application development, and real-time data visualization. It demonstrates the ability to create a practical, industry-relevant tool for predictive maintenance.
