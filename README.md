@@ -1,7 +1,7 @@
 ## PORTFOLIO SUMMARY ##
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Welcome to my AI/ML project repo! This portfolio includes both personal projects undergone as part of independent proactive learning and 'some' coursework projects undergone as part of my **MSc Computer Science with Artififical Intelligence (Jan 2024 - December 2025. Graduating 2026)**
+Welcome to my Artificial Intelligence/Machine Learning project repo! This portfolio includes both personal projects undergone as part of independent proactive learning and 'some' coursework projects undergone as part of my **MSc Computer Science with Artififical Intelligence (Jan 2024 - December 2025. Graduating January 2026)**
 
 ## Project 1 - Sentiment Analysis Tool
 - #Pandas #Numpy #Textblob #Matplotlib 
