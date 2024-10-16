@@ -1,3 +1,25 @@
+## PORTFOLIO SUMMARY ##
+
+~Created as part fo proactive self learning~
+
+PROJECT 1 - SENTIMENT ANALYSIS TOOL #Pandas #Numpy #Textblob #Matplotlib
+PROJECT 2 - ENHANCED SENTIMENT ANALYSIS (enhanced version of Project 1 - Sentiment Analysis Tool) #Pandas #Numpy #Textblob #Matplotlib #Seaborn #Transformers #Torch #Wordcloud
+PROJECT 3 - SOCIALGUARD - SOCIAL MEDIA COMPLIANCE ANALYZER #NTLK #Matplotlib #Scikit-learn #Pandas #Streamlit
+PROJECT 4 - ASSETSENTRY: PREDICTIVE MAINTENANCE TOOL #pmdarima #statsmodels #Scikit-learn #Pandas #Numpy
+
+~Created in relation to MSc Computer Science with Artififcial Intelligence course (Jan 2024 - December 2025. Graduating Jan 2026)~
+*does not reflect full scope of learnings, other courseworks/ projects have not been included. 
+Curriculum modules: Algorithms and Data Structures, Computer Architecture & Operating Systems, Computer & Mobile Networks, Research Methods, Applied Artificial Inteligence, Advanced Programming, Software Engineering, Artififcial Intelligence and Machine learning, Big Data Analytics, Independent Research Project 
+
+COURSEWORK 1 - Module: Applied Artificial Intelligence - Knapsack Problem - Examination and Implementation of Local search Algorithms to complex problems   
+#SimulatedAnnealing #TabuSearch #NeuralNetworks
+
+COURSEWORK 2 - Module: Applied Artificial Intelligence - AI/ML NGO Report Casestudy. Examination and Implementation of Machine learning techniques and AI search or optimization techniques to construct a robust model for analysis of datasets 
+#NeuralNetworks #MachineLearning #DataPreprocessing #Prediction #Pandas #Numpy #Transformers #Matplotlib #SimmulatedAnnealing #LinearRegression #Optimisation #ModelEvaluation #ModelTraining 
+
+To be Updated Periodically... 
+
+
 ## PROJECT 1 - SENTIMENT ANALYSIS TOOL ##
 
 This project is a basic sentiment analysis tool that analyzes fake Twitter data. It demonstrates fundamental skills in Python, natural language processing (NLP), and data visualization.
