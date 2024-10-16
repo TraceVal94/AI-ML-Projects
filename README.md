@@ -1,54 +1,50 @@
 ## PORTFOLIO SUMMARY ##
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Created as part fo proactive self learning
+Welcome to my AI/ML project repo! This portfolio includes both personal projects undergone as part of independent proactive learning and 'some' coursework projects undergone as part of my **MSc Computer Science with Artififical Intelligence (Jan 2024 - December 2025)**
 
-## PROJECT 1 
-SENTIMENT ANALYSIS TOOL 
- #Pandas #Numpy #Textblob #Matplotlib
-
-## PROJECT 2 
-ENHANCED SENTIMENT ANALYSIS (enhanced version of Project 1 - Sentiment Analysis Tool)
- #Pandas #Numpy #Textblob #Matplotlib #Seaborn #Transformers #Torch #Wordcloud
-
-## PROJECT 3 
-SOCIALGUARD - SOCIAL MEDIA COMPLIANCE ANALYZER 
- #NTLK #Matplotlib #Scikit-learn #Pandas #Streamlit
-
-## PROJECT 4
-ASSETSENTRY: PREDICTIVE MAINTENANCE TOOL 
- #pmdarima #statsmodels #Scikit-learn #Pandas #Numpy
-
-Created in relation to MSc Computer Science with Artififcial Intelligence course (Jan 2024 - December 2025. Graduating Jan 2026)
-*does not reflect full scope of learnings, other courseworks/ projects have not been included. 
-*Curriculum modules: Algorithms and Data Structures, Computer Architecture & Operating Systems, Computer & Mobile Networks, Research Methods, Applied Artificial Inteligence, Advanced Programming, Software Engineering, Artififcial Intelligence and Machine learning, Big Data Analytics, Independent Research Project 
-
-## COURSEWORK 1
-Knapsack Problem - Examination and Implementation of Local search Algorithms to complex problems
-Module: Applied Artificial Intelligence
- #SimulatedAnnealing #TabuSearch #NeuralNetworks
+## Project 1 - Sentiment Analysis Tool
+- #Pandas #Numpy #Textblob #Matplotlib 
 
 
-## COURSEWORK 2
-AI/ML NGO Report Casestudy. Examination and Implementation of Machine learning techniques and AI search or optimization techniques to construct a robust model for analysis of datasets
-Module: Applied Artificial Intelligence
- #NeuralNetworks #MachineLearning #DataPreprocessing #Prediction #Pandas #Numpy #Transformers #Matplotlib #SimmulatedAnnealing #LinearRegression #Optimisation #ModelEvaluation #ModelTraining 
+## Project 2 - 'Enhanced' Sentiment Analysis Tool
+- #Pandas #Numpy #Textblob #Matplotlib #Seaborn #Transformers #Torch #Wordcloud
 
 
-## To be Updated Periodically...
+## Project 3 - SocialGuard - Social Media Compliance Analyzer
+- #NTLK #Matplotlib #Scikit-learn #Pandas #Streamlit
 
 
-## PROJECT 1 - SENTIMENT ANALYSIS TOOL ##
+## Project 4 - AssetSentry: Predictive Maintenance Tool 
+- #pmdarima #statsmodels #Scikit-learn #Pandas #Numpy
+
+
+## Coursework 1 - Module: Applied AI
+- Knapsack Problem - Examination and Implementation of Local Search Algorithms to complex problems
+- #SimulatedAnnealing #TabuSearch #NeuralNetworks
+
+
+## Coursework 2 - Module: Applied AI
+- AI/ML NGO Report Casestudy. Examination and Implementation of Machine learning techniques and AI search or optimization techniques to construct a robust model for analysis of datasets
+- #NeuralNetworks #MachineLearning #DataPreprocessing #Prediction #Pandas #Numpy #Transformers #Matplotlib #SimmulatedAnnealing #LinearRegression #Optimisation #ModelEvaluation #ModelTraining 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# PROJECT 1 - SENTIMENT ANALYSIS TOOL 
+
 
 This project is a basic sentiment analysis tool that analyzes fake Twitter data. It demonstrates fundamental skills in Python, natural language processing (NLP), and data visualization.
 
-# Features
+## Features ##
 
 - Generates fake Twitter data
 - Performs basic sentiment analysis using TextBlob
 - Saves results to a CSV file
 - Visualizes results using matplotlib
 
-# requirements
+## Requirements ##
 
 - Python 3.x
 - pandas
@@ -56,7 +52,7 @@ This project is a basic sentiment analysis tool that analyzes fake Twitter data.
 - textblob
 - matplotlib
 
-# Usage
+## Usage ##
 
 1. Ensure you have all required libraries installed:
    pip install pandas numpy textblob matplotlib
@@ -68,7 +64,7 @@ This project is a basic sentiment analysis tool that analyzes fake Twitter data.
 - A CSV file with sentiment analysis results
 - A PNG image with a visualization of the results
 
-# Output
+## Output ##
 
 - `twitter_sentiment.csv`: Contains the generated tweets and their sentiment scores
 - `sentiment_analysis.png`: A box plot showing sentiment distribution across topics
@@ -76,14 +72,14 @@ This project is a basic sentiment analysis tool that analyzes fake Twitter data.
 This project showcases basic Python programming, data manipulation with pandas, simple NLP techniques, and data visualization skills.
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-## PROJECT 2 - ENHANCED SENTIMENT ANALYSIS 
+# PROJECT 2 - ENHANCED SENTIMENT ANALYSIS 
 
 
 This project is an enhanced version of the sentiment analysis tool, incorporating more advanced techniques and visualizations. It demonstrates intermediate to advanced skills in Python, natural language processing (NLP), machine learning, and data visualization.
 
-# Features
+## Features ##
 
 - Generates fake Twitter data
 - Performs sentiment analysis using Hugging Face Transformers
@@ -92,7 +88,7 @@ This project is an enhanced version of the sentiment analysis tool, incorporatin
 - Creates advanced visualizations including word clouds
 - Includes a simple unit test
 
-# Requirements
+## Requirements ##
 
 - Python 3.x
 - pandas
@@ -103,7 +99,7 @@ This project is an enhanced version of the sentiment analysis tool, incorporatin
 - torch
 - wordcloud
 
-# Installation
+## Installation ##
 
 1. Install required libraries:
    pip install pandas numpy matplotlib seaborn transformers torch wordcloud
@@ -111,7 +107,7 @@ This project is an enhanced version of the sentiment analysis tool, incorporatin
 2. Download necessary NLTK data:
   python -m textblob.download_corpora
 
-# Usage
+## Usage ##
 
 1. Run the script:
 python sentiment_analysis_enhanced.py
@@ -120,25 +116,29 @@ python sentiment_analysis_enhanced.py
 - A CSV file with detailed sentiment analysis results
 - Multiple PNG images with various visualizations
 
-# Output
+## Output ##
 
 - `twitter_sentiment.csv`: Contains generated tweets and their sentiment scores
 - `sentiment_boxplot.png`: Box plot of sentiment scores by topic
 - `sentiment_distribution.png`: Bar plot of sentiment category distribution
 - `wordcloud.png`: Word cloud visualization of all tweets
 
-# Testing
+## Testing ##
 
 The script includes a basic unit test for the sentiment classification function. To run the test:
 python -m unittest sentiment_analysis_enhanced.py
 
 This project showcases more advanced Python programming, use of modern NLP libraries, data preprocessing techniques, advanced data visualization, and basic testing practices.
 
-## PROJECT 3 - SOCIALGUARD - SOCIAL MEDIA COMPLIANCE ANALYZER
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# PROJECT 3 - SOCIALGUARD - SOCIAL MEDIA COMPLIANCE ANALYZER
+
 
 This project demonstrates a tool for analyzing social media posts for policy compliance and sentiment. It uses natural language processing (NLP) and machine learning techniques to classify posts by topic and sentiment, providing insights that could be valuable for companies monitoring their social media presence.
 
-# Features
+## Features ##
 
 - Generation of fake social media posts for demonstration purposes
 - Sentiment analysis of posts (Positive, Negative, Neutral)
@@ -148,7 +148,7 @@ This project demonstrates a tool for analyzing social media posts for policy com
 - Display of sample posts with their classifications
 - Evaluation of topic classification performance
 
-# Technologies Used
+## Technologies Used ##
 
 - Python 3.x
 - NLTK for sentiment analysis
@@ -157,7 +157,7 @@ This project demonstrates a tool for analyzing social media posts for policy com
 - Matplotlib and WordCloud for data visualization
 - Streamlit for the web application interface
 
-# Installation
+## Installation ##
 
 1. Clone this repository:
    git clone https://github.com/TraceVal94/AI-ML-Projects/social-media-policy-analyzer.git
@@ -171,11 +171,14 @@ python
 import nltk
 nltk.download('vader_lexicon')
 
-## PROJECT 4 - ASSETSENTRY: PREDICTIVE MAINTENANCE TOOL
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# PROJECT 4 - ASSETSENTRY: PREDICTIVE MAINTENANCE TOOL
+
 
 AssetSentry is a predictive maintenance tool that uses time-series analysis and anomaly detection to predict equipment failures based on sensor data. This project demonstrates skills in data processing, machine learning, and web application development.
 
-# Features
+## Features ##
 
 * Time-series forecasting using ARIMA models
 * Anomaly detection using Isolation Forest algorithm
@@ -184,7 +187,7 @@ AssetSentry is a predictive maintenance tool that uses time-series analysis and 
 * Web-based dashboard for easy monitoring
 * Automated model parameter optimization
 
-# Technologies Used
+## Technologies Used ##
 
 * Python 3.x
 * Flask for web application framework
@@ -194,7 +197,7 @@ AssetSentry is a predictive maintenance tool that uses time-series analysis and 
 * Matplotlib and Chart.js for data visualization
 * pmdarima for automatic ARIMA parameter selection
 
-# Installation
+## Installation ##
 
 1. Clone this repository:
 git clone https://github.com/TraceVal94/AI-ML-Projects.git
@@ -203,7 +206,7 @@ cd AI-ML-Projects/AssetSentry
 2. Install the required packages:
 pip install -r requirements.txt
 
-# Usage
+## Usage ##
 
 1. Run the Flask application:
 python app.py
@@ -212,22 +215,22 @@ python app.py
 
 3. The dashboard will display real-time predictions and anomaly scores for the equipment.
 
-# Data
+## Data ##
 
 The project uses the NASA Turbofan Engine Degradation Simulation Dataset, which is included in the `data` folder.
 
-# Output
+## Output ##
 
 * Real-time visualization of time series predictions
 * Anomaly score tracking over time
 * API endpoint for retrieving latest predictions and anomaly scores
 
-# Model Details
+## Model Details ##
 
 * Time Series Forecasting: ARIMA model with automated parameter selection
 * Anomaly Detection: Isolation Forest algorithm
 
-# Future Enhancements
+## Future Enhancements ##
 
 * Integration with live data streams
 * Implementation of more advanced deep learning models (e.g., LSTM)
