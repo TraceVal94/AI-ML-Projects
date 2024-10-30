@@ -21,12 +21,12 @@ Welcome to my Artificial Intelligence/Machine Learning project repo! This portfo
 
 ## Coursework 1 - Module: Applied AI
 - Knapsack Problem - Examination and Implementation of Local Search Algorithms to complex problems
-- #SimulatedAnnealing #TabuSearch #NeuralNetworks
+- #SimulatedAnnealing #TabuSearch #Algorithms
 
 
 ## Coursework 2 - Module: Applied AI
 - AI/ML NGO Report Casestudy. Examination and Implementation of Machine learning techniques and AI search or optimization techniques to construct a robust model for analysis of datasets
-- #NeuralNetworks #MachineLearning #DataPreprocessing #Prediction #Pandas #Numpy #Transformers #Matplotlib #SimmulatedAnnealing #LinearRegression #Optimisation #ModelEvaluation #ModelTraining 
+- #GeneticAlgorithms HillClimbingAlgorithm #DecisionTrees #LinearRegression #RMSE #MAE #DataPreprocessing #Prediction #Pandas #Numpy #GridSearch #Matplotlib #Optimisation #ModelEvaluation #ModelTraining 
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
