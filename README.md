@@ -14,72 +14,24 @@ Welcome to my Artificial Intelligence/Machine Learning project repo! This portfo
 - #SimulatedAnnealing #TabuSearch #Algorithms
 
 
-
 ## Project 1 - Sentiment Analysis Tool
-- #Pandas #Numpy #Textblob #Matplotlib 
-
-
-## Project 2 - 'Enhanced' Sentiment Analysis Tool
 - #Pandas #Numpy #Textblob #Matplotlib #Seaborn #Transformers #Torch #Wordcloud
 
 
-## Project 3 - SocialGuard - Social Media Compliance Analyzer
+## Project 2 - SocialGuard - Social Media Compliance Analyzer
 - #NTLK #Matplotlib #Scikit-learn #Pandas #Streamlit
 
 
-## Project 4 - AssetSentry: Predictive Maintenance Tool 
+## Project 3 - AssetSentry: Predictive Maintenance Tool 
 - #pmdarima #statsmodels #Scikit-learn #Pandas #Numpy
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-# PROJECT 1 - SENTIMENT ANALYSIS TOOL 
-
-
-This project is a basic sentiment analysis tool that analyzes fake Twitter data. It demonstrates fundamental skills in Python, natural language processing (NLP), and data visualization.
-
-## Features ##
-
-- Generates fake Twitter data
-- Performs basic sentiment analysis using TextBlob
-- Saves results to a CSV file
-- Visualizes results using matplotlib
-
-## Requirements ##
-
-- Python 3.x
-- pandas
-- numpy
-- textblob
-- matplotlib
-
-## Usage ##
-
-1. Ensure you have all required libraries installed:
-   pip install pandas numpy textblob matplotlib
-   
-2. Run the script:
-   python sentiment_analysis.py
-
-3. The script will generate:
-- A CSV file with sentiment analysis results
-- A PNG image with a visualization of the results
-
-## Output ##
-
-- `twitter_sentiment.csv`: Contains the generated tweets and their sentiment scores
-- `sentiment_analysis.png`: A box plot showing sentiment distribution across topics
-
-This project showcases basic Python programming, data manipulation with pandas, simple NLP techniques, and data visualization skills.
+# PROJECT 1 - SENTIMENT ANALYSIS 
 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# PROJECT 2 - ENHANCED SENTIMENT ANALYSIS 
-
-
-This project is an enhanced version of the sentiment analysis tool, incorporating more advanced techniques and visualizations. It demonstrates intermediate to advanced skills in Python, natural language processing (NLP), machine learning, and data visualization.
+This project is a sentiment analysis tool, incorporating more advanced techniques and visualizations. It demonstrates intermediate to advanced skills in Python, natural language processing (NLP), machine learning, and data visualization.
 
 ## Features ##
 
@@ -135,7 +87,7 @@ This project showcases more advanced Python programming, use of modern NLP libra
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# PROJECT 3 - SOCIALGUARD - SOCIAL MEDIA COMPLIANCE ANALYZER
+# PROJECT 2 - SOCIALGUARD - SOCIAL MEDIA COMPLIANCE ANALYZER
 
 
 This project demonstrates a tool for analyzing social media posts for policy compliance and sentiment. It uses natural language processing (NLP) and machine learning techniques to classify posts by topic and sentiment, providing insights that could be valuable for companies monitoring their social media presence.
@@ -175,7 +127,7 @@ nltk.download('vader_lexicon')
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# PROJECT 4 - ASSETSENTRY: PREDICTIVE MAINTENANCE TOOL
+# PROJECT 3 - ASSETSENTRY: PREDICTIVE MAINTENANCE TOOL
 
 
 AssetSentry is a predictive maintenance tool that uses time-series analysis and anomaly detection to predict equipment failures based on sensor data. This project demonstrates skills in data processing, machine learning, and web application development.
