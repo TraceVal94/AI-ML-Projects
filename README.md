@@ -3,6 +3,17 @@
 
 Welcome to my Artificial Intelligence/Machine Learning project repo! This portfolio includes both personal projects undergone as part of independent proactive learning and 'some' coursework projects undergone as part of my **MSc Computer Science with Artififical Intelligence (Jan 2024 - December 2025. Graduating January 2026)**
 
+
+## Coursework 1 - Module: Applied AI
+- AI/ML NGO Report Casestudy. Examination and Implementation of Machine learning techniques and AI search or optimization techniques to construct a robust model for analysis of datasets
+- #GeneticAlgorithms HillClimbingAlgorithm #DecisionTrees #LinearRegression #RMSE #MAE #DataPreprocessing #Prediction #Pandas #Numpy #GridSearch #Matplotlib #Optimisation #ModelEvaluation #ModelTraining
+- 
+## Coursework 2 - Module: Applied AI
+- Knapsack Problem - Examination and Implementation of Local Search Algorithms to complex problems
+- #SimulatedAnnealing #TabuSearch #Algorithms
+
+
+
 ## Project 1 - Sentiment Analysis Tool
 - #Pandas #Numpy #Textblob #Matplotlib 
 
@@ -17,16 +28,6 @@ Welcome to my Artificial Intelligence/Machine Learning project repo! This portfo
 
 ## Project 4 - AssetSentry: Predictive Maintenance Tool 
 - #pmdarima #statsmodels #Scikit-learn #Pandas #Numpy
-
-
-## Coursework 1 - Module: Applied AI
-- Knapsack Problem - Examination and Implementation of Local Search Algorithms to complex problems
-- #SimulatedAnnealing #TabuSearch #Algorithms
-
-
-## Coursework 2 - Module: Applied AI
-- AI/ML NGO Report Casestudy. Examination and Implementation of Machine learning techniques and AI search or optimization techniques to construct a robust model for analysis of datasets
-- #GeneticAlgorithms HillClimbingAlgorithm #DecisionTrees #LinearRegression #RMSE #MAE #DataPreprocessing #Prediction #Pandas #Numpy #GridSearch #Matplotlib #Optimisation #ModelEvaluation #ModelTraining 
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
